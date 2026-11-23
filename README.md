@@ -24,12 +24,12 @@
 
 ### Sobre mim
 
-Desenvolvedor Full-Stack com atuação de ponta a ponta, desde a arquitetura de APIs RESTful e microsserviços até a construção de interfaces web reativas, aplicativos mobile e soluções baseadas em IA Generativa[cite: 1].
+Desenvolvedor Full-Stack com atuação de ponta a ponta, desde a arquitetura de APIs RESTful e microsserviços até a construção de interfaces web reativas, aplicativos mobile e soluções baseadas em IA Generativa.
 
-- **Experiência em IA Generativa e Corporativo:** Atuação na **OiKO.ai** desenvolvendo interfaces web em Next.js/TypeScript e integrando agentes autônomos de IA (LangChain, LangGraph, CrewAI) e automações (Power Automate) a ecossistemas empresariais como Microsoft CRM e Dynamics 365 FO[cite: 1].
-- **Arquitetura e Backend:** Construção de microsserviços e APIs escaláveis com **Node.js, NestJS e Python**, aplicando Clean Code, SOLID, injeção de dependência, mensageria, caching com Redis e modelagem em bancos relacionais (PostgreSQL/MySQL) e vetoriais[cite: 1].
-- **Desenvolvimento Mobile:** Criação de aplicativos Android sob demanda utilizando **TypeScript, Angular, Ionic e Capacitor**, com foco em persistência local, plugins nativos e publicação (APK/AAB)[cite: 1].
-- **Base Acadêmica e Hardware:** Graduando em Ciência da Computação (IFSP)[cite: 1] com formação prévia como Técnico em Eletrônica (IFSP)[cite: 1], unindo engenharia de software e sistemas embarcados (IoT/ESP32) no desenvolvimento do meu TCC em Agricultura de Precisão.
+- **Experiência em IA Generativa e Corporativo:** Atuação na **OiKO.ai** desenvolvendo interfaces web em Next.js/TypeScript e integrando agentes autônomos de IA (LangChain, LangGraph, CrewAI) e automações (Power Automate) a ecossistemas empresariais como Microsoft CRM e Dynamics 365 FO.
+- **Arquitetura e Backend:** Construção de microsserviços e APIs escaláveis com **Node.js, NestJS e Python**, aplicando Clean Code, SOLID, injeção de dependência, mensageria, caching com Redis e modelagem em bancos relacionais (PostgreSQL/MySQL) e vetoriais.
+- **Desenvolvimento Mobile:** Criação de aplicativos Android sob demanda utilizando **TypeScript, Angular, Ionic e Capacitor**, com foco em persistência local, plugins nativos e publicação (APK/AAB).
+- **Base Acadêmica e Hardware:** Graduando em Ciência da Computação (IFSP) com formação prévia como Técnico em Eletrônica (IFSP), unindo engenharia de software e sistemas embarcados (IoT/ESP32) no desenvolvimento do meu TCC em Agricultura de Precisão.
 
 ---
 
